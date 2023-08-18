@@ -27,7 +27,7 @@ const ListaTareas = () => {
     }
 
     return (
-        <div className="container">
+        <div className="container mb-3">
             <div className="input-group mb-2">
                 <input
                     type="text"
